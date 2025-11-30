@@ -1,0 +1,17 @@
+# Build artifacts
+build/
+morse
+
+# Object files
+*.o
+
+# Backup / temp files
+*~
+*.swp
+*.tmp
+
+# macOS noise
+.DS_Store
+
+# Windows noise
+Thumbs.db
