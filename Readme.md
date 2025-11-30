@@ -1,5 +1,7 @@
 # Morse Code Decoder (C++ Binary Tree Example)
 
+![Binary Tree representation of Morse Code](https://morsecodeconverter.net/wp-content/uploads/2024/05/Dot.webp)
+
 This project demonstrates how **binary trees** work in C++ by using them to
 decode **Morse code**. Each letter in the Morse alphabet is stored in a binary
 tree where:
